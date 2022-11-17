@@ -42,7 +42,7 @@ Go Web3 Plugin is an all-in-one plugin suite that gives you access to best tools
 
 
 
-1. **Web 3 Identity:** This module makes it easy for wordpress owners to instantly research and register their own web 3 business name on the largest block chain network which automatically functions as their web3 wallets also. ENS is the largest and biggest name service in the world. 
+1. **Web 3 Identity:** This module makes it easy for wordpress business site owners to instantly research and register their own web 3 business name on the largest block chain network which automatically functions as their web3 wallets also. ENS is the largest and biggest name service in the world. 
 
 [![H9Weswl.md.png](https://iili.io/H9Weswl.md.png)](https://freeimage.host/i/H9Weswl)
 
