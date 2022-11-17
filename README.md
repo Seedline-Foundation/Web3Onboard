@@ -76,7 +76,7 @@ Our Go to market strategy is partnership and plugin listing. We will partner wit
 
 **Pricing:** 
 
-If the Ethereum foundation supports us with a development fund, we hope to make it FREE for all and only sell support services for those that may need it. It is not mandatory.
+If the Ethereum foundation supports us with a development fund, we hope to make it FREE for all and only sell support services for those that may need it. It is not mandatory. This is will help us to support and sustain this project on a long run.
 
 #**Support us to make this plugin go viral on the Wordpress ecosystem.** 
 
