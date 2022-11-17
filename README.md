@@ -74,6 +74,10 @@ Cask Finance is a streaming payment solution that empower you to accept web 3 pa
 
 Our Go to market strategy is partnership and plugin listing. We will partner with woocommerce and elementor to launch our product. Then reach out to other theme builders to make our plugin accessible within a short time.
 
+**Target Goal:**
+
+We want to onboard 10,000 businesses within 8months.
+
 **Pricing:** 
 
 If the Ethereum foundation supports us with a development fund, we hope to make it FREE for all and only sell support services for those that may need it. It is not mandatory. This is will help us to support and sustain this project on a long run.
