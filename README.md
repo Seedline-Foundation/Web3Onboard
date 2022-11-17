@@ -1,22 +1,20 @@
-# Web3Onboard
-
- **Web3onboard is a project with aim to onboard  Wordpress ecosystem into web 3.0**
- ======================================================================================
+#  **Web3onboard is a project with aim to onboard  Wordpress ecosystem into web 3.0**
+ 
  
 
 
 
-# **Go Web3 WordPress PLUGIN**
+## Go Web3 WordPress Plugin
 
 
- Introduction:
+ ### Introduction:
 
-As the world of the internet prepares itself for the latest innovation in AI, Block chain, VR/AR, DAO, Metaverse, IOT and IOB technologies, businesses are not supposed to be left alone. They have embraced these new technologies to help them function effectively in this ever changing world of technologies..
+As the world of the internet prepares itself for the latest innovation in AI, Block chain, VR/AR, DAO, Metaverse, IOT and IOB technologies, businesses are not supposed to be left alone. They have to embrace these new technologies that'll help them function effectively in this ever changing world of technologies..
 
  
-Block chain and crypto is exploding and making a great impact around the world. New ways of managing business are emerging. This Decentralized Autonomous Organization (DAO) is an emerging technology that shifts the dominance of centralized capitalism from few benefiting individuals to community decentralized capitalism owned by a community of people. 
+Block chain and cryptocurriencies are exploding and making  great impacts around the world. New ways of managing business are emerging. This Decentralized Autonomous Organization (DAO) is an emerging technology that shifts the dominance of centralized capitalism from few benefiting individuals to community decentralized capitalism owned by a community of people. 
 
-For example; big businesses like google.com, facebook.com, amazon.com are completely owned by a man and they exploit people and resources in achieving their purposes.That is a web2 concept
+For example; big businesses like google.com, facebook.com, amazon.com are completely owned by a man and they exploit people and resources in achieving their purposes.That is a web2 concept.
 
 Web3 concept seeks to get big businesses owned by a community of people. It is community driven. For example, **Ethereum Name Service (ENS)** is owned by over 80,000 people that voted on their constitution. They organized themselves as DAO and everything is transparent for everyone to see.
 
