@@ -1,6 +1,6 @@
 # Web3Onboard
 
- Web3onboard is a project with aim to onboard  Wordpress ecosystem into web 3.0.
+ **Web3onboard is a project with aim to onboard  Wordpress ecosystem into web 3.0**
  ======================================================================================
  
 
@@ -9,11 +9,11 @@
 # **Go Web3 WordPress PLUGIN**
 
 
-# Introduction:
+ Introduction:
 
 As the world of the internet prepares itself for the latest innovation in AI, Block chain, VR/AR, DAO, Metaverse, IOT and IOB technologies, businesses are not supposed to be left alone. They have embraced these new technologies to help them function effectively in this ever changing world of technologies..
 
- \
+ 
 Block chain and crypto is exploding and making a great impact around the world. New ways of managing business are emerging. This Decentralized Autonomous Organization (DAO) is an emerging technology that shifts the dominance of centralized capitalism from few benefiting individuals to community decentralized capitalism owned by a community of people. 
 
 For example; big businesses like google.com, facebook.com, amazon.com are completely owned by a man and they exploit people and resources in achieving their purposes.That is a web2 concept
@@ -46,30 +46,30 @@ Go Web3 Plugin is an all-in-one plugin suite that gives you access to best tools
 
 1. **Web 3 Identity:** This module makes it easy for wordpress owners to instantly research and register their own web 3 business name on the largest block chain network which automatically functions as their web3 wallets also. ENS is the largest and biggest name service in the world. 
 
-![image](https://photos.app.goo.gl/bPHPXXE5snX7RhuG9) 
+[![H9Weswl.md.png](https://iili.io/H9Weswl.md.png)](https://freeimage.host/i/H9Weswl)
 
 2. **Accept Web 3 Payment:** Web 2 giants like Paypal and stripes are household names for business entities accepting payment online but they fight to keep you there. You have a very simple alternative far better  than these web 2 payments solutions. 
 Cask Finance is a streaming payment solution that empower you to accept web 3 payment online without paying gas fee. 
 
-![image](https://photos.app.goo.gl/sHt1WFdcV2igvcDu6) \
+[![H9XkcYu.md.png](https://iili.io/H9XkcYu.md.png)](https://freeimage.host/i/H9XkcYu)
 
 
-3. **Manage Web 3 Cash Flow:** Cashflow is the life wire of any business. Gnosis safe is an app that most web 3 platforms use to drive financial transparency. Hooking up on Gnosis safe helps you manage funds between web 2 and web 3. \
+3. **Manage Web 3 Cash Flow:** Cashflow is the life wire of any business. Gnosis safe is an app that most web 3 platforms use to drive financial transparency. Hooking up on Gnosis safe helps you manage funds between web 2 and web 3. 
 
-![image](https://photos.app.goo.gl/smqavvn2KCbykvjs7) \
+[![H9XScYX.md.png](https://iili.io/H9XScYX.md.png)](https://freeimage.host/i/H9XScYX)
 
-4. **Do Web 3 Taxes:** This will help you calculate your tax. Uncle Sam doesn't joke with taxes. As new as web3 is, Uncle Sam is already working hard to block loopholes that people may exploit. Web 3 has awesome apps that take the nightmare of calculating your taxes away and give you peace of mind. \
+4. **Do Web 3 Taxes:** This will help you calculate your tax. Uncle Sam doesn't joke with taxes. As new as web3 is, Uncle Sam is already working hard to block loopholes that people may exploit. Web 3 has awesome apps that take the nightmare of calculating your taxes away and give you peace of mind. 
 
-![image](https://photos.app.goo.gl/axhWAo2jGUs3Vof89) \
+[![H9XgQLv.md.png](https://iili.io/H9XgQLv.md.png)](https://freeimage.host/i/H9XgQLv)
 
-5. **Get Web 3 Loan:** This module connects you to Alchemix where you collect business loans without repayment and still get back your collateral. This is never available anywhere in web 2 except web 3. That is why you need to migrate to web 3. \
+5. **Get Web 3 Loan:** This module connects you to Alchemix where you collect business loans without repayment and still get back your collateral. This is never available anywhere in web 2 except web 3. That is why you need to migrate to web 3. 
 
 
-![image](https://photos.app.goo.gl/mxHieALELCCXExwa8) \
+[![H9X4PWJ.md.png](https://iili.io/H9X4PWJ.md.png)](https://freeimage.host/i/H9X4PWJ)
 
-6. Add Web3 Login: This module turns your wordpress website into a web3 login system. We are leaving behind username and password to use web 3 identity to sign up on websites.  \
+6. Add Web3 Login: This module turns your wordpress website into a web3 login system. We are leaving behind username and password to use web 3 identity to sign up on websites.  
 
-![image](https://photos.app.goo.gl/eBCUcwHRj7KoWEpZ9) \
+[![H9XPrMJ.md.png](https://iili.io/H9XPrMJ.md.png)](https://freeimage.host/i/H9XPrMJ)
 
 
 **Marketing:** 
@@ -80,7 +80,7 @@ Our Go to market strategy is partnership and plugin listing. We will partner wit
 
 If the Ethereum foundation supports us with a development fund, we hope to make it FREE for all and only sell support services for those that may need it. It is not mandatory.
 
-#**Support us to make this plugin go viral on the Wordpress ecosystem.** \
+#**Support us to make this plugin go viral on the Wordpress ecosystem.** 
 
 
 
