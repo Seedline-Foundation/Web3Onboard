@@ -4,7 +4,7 @@
 
 
 
-## Go Web3 WordPress Plugin
+## Tool For Onboard: Go Web3 WordPress Plugin
 
 
  ### Introduction:
