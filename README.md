@@ -82,7 +82,53 @@ We want to onboard 10,000 businesses within 8months.
 
 If the Ethereum foundation supports us with a development fund, we hope to make it FREE for all and only sell support services for those that may need it. It is not mandatory. This is will help us to support and sustain this project on a long run.
 
-#**Support us to make this plugin go viral on the Wordpress ecosystem.** 
+## **Use Of Fund:**
+Development = $10k
+Marketing = $8k
+Total = $18k
+
+## **Timeline:**
+
+### Month 1: 
+
+objective: To Design of product and funnel prototypes, Development of plugin and hiring of  WordPress Business Development specialist.
+
+Task: 1) Assigning of Product Prototype designs = $1200
+            2.) Start of Development of Plugin = $4500
+             3.) Hire Business Development specialist that will focus on securing partnership deals =$2300
+
+Budget: $8000
+
+Deliverables: Prototypes, New worker and part 1 of plugin development
+
+
+### Month 2: 
+objective: To complete Development of plugin ,testing and scouting for partnership.
+
+Task: 1) Completion of plugin development
+            2) Marketing Material development
+            3.) Test of plugin
+            4) Securing of 5 top partnership deals
+
+Budget: $5000
+
+Deliverables: Marketing material, 5 partnerships and Plugin development completion
+
+
+### Month 3: 
+objective: To complete testing , plugin availability on wordpress.org and launching 
+
+Task: 1) Official launching 
+            2)  Marketing
+       
+Budget: $5000
+
+Deliverables: 100 downloads.
+
+
+
+
+## **Support us to make this plugin go viral on the Wordpress ecosystem.** 
 
 
 
