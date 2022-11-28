@@ -65,9 +65,9 @@ Cask Finance is a streaming payment solution that empower you to accept web 3 pa
 
 [![H9X4PWJ.md.png](https://iili.io/H9X4PWJ.md.png)](https://freeimage.host/i/H9X4PWJ)
 
-6. Add Web3 Login: This module turns your wordpress website into a web3 login system. We are leaving behind username and password to use web 3 identity to sign up on websites.  
+6. **Add Web3 Login:** This module turns your wordpress website into a web3 login system. We are leaving behind username and password to use web 3 identity to sign up on websites using unstoppable domain.  
 
-[![H9XPrMJ.md.png](https://iili.io/H9XPrMJ.md.png)](https://freeimage.host/i/H9XPrMJ)
+[![HKU9kGf.md.png](https://iili.io/HKU9kGf.md.png)](https://freeimage.host/i/HKU9kGf)
 
 
 **Marketing:** 
